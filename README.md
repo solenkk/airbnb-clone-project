@@ -118,7 +118,7 @@ A backend-focused project for solving real-world problems in web development.
 
 ---
 
-# Key System Features
+# Feature Breakdown
 
 ## 🔍 Discovery Features
 - Location-based hotel search
