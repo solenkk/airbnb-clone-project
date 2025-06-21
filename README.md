@@ -58,7 +58,7 @@ A backend-focused project for solving real-world problems in web development.
    phton prototypin AI/ML
    PHP web cms cost effective hosting 
  
-   ## DATABASE DESIGN
+   ## Database Design
 
    the key entities that are required for the data base designes are entities like the
    ### **LOCATIONS**
