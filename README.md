@@ -92,4 +92,22 @@ A backend-focused project for solving real-world problems in web development.
    ### **THE METHOD WE REACH THERE**
    --This vary from one client to other client like
         --If the client is form around there might also include using google map to locate where the hotel is at
-        --If the client is not from there or come abroad it might include ways they can facilitate the system like agreeing with other sectors that could provide that or being a bride to provide it 
+        --If the client is not from there or come abroad it might include ways they can facilitate the system like agreeing with other sectors that could provide that or being a bride to provide it
+
+   ## Feature Breakdown
+
+the feature breakdown of the airbnb booking system is that the primarly focus on the simpilyfing and solving booking problem. it provides diffrent futres this are futures such as 
+1. By providing hotel information of to the client at their prefered location
+   all it take is the client to choose a place where they want to go then the website will see everything there and provide the hotel to the client this by regitoring the hotels from diffrent region of the world so the client wont be worried about going somewhere and not finding hotel.
+2. provide information about the hotel price
+        when we say about the price the price that the client would get hotel at the area they prfered is one of the main aspect finding the right price. one of the main thing or feature that our web has is finding the right price hotel for the client by making the hotels list their price for a type of room they a have
+   another thing include the way that the coustumer or client could pay the price our web will also include the features that works with banks so that they they can make their transaction easy and reliable.
+3. provide information about the hotel
+   This features of the web is the place where the people find detail information about the hotel from what it looks like to where it is found  
+ provide information about what the people had expreianced by being there.
+ provide information about the type of room that are found there and provide visual pictures or videos that discribe the hotel
+ there are diffrent mechanisms we do each thing
+by providing the feature that can post vedios and photos we can make the know what the hotel looks like vesualy
+by provinding rating and review features we are providing what are the making them to have the way to know about the hotel from other exprianced client
+by providing features for the hotel to post or show what they have to the client we could make the client to know what they have what type of room they have from normal room to vip based on how they can provide to their client 
+ simply what our campony is doing  is not only creating a booking system we are creating an easy way that the client and hotels could work together by providing an easy way to make transaction an easy way they could comminicate and an easy way the the client could comminicate we are not building booking we are a features that containt the society. 
